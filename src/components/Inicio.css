@@ -1,0 +1,59 @@
+.Inicio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .HondaContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .Centralizado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .BotaoCentralizado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+    h1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  img{
+    width: 900px;
+    height: 900px;
+  }
+
+  .HondaBackground {
+    background: rgb(255,0,0);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,0,0,1) 35%, rgba(0,0,0,0) 100%);
+    display: block; /* Mostrar quando o botão da Honda for pressionado */
+    border: 2px solid black; /* Linha vermelha na parte inferior */
+  }
+  
+
+
+
+
